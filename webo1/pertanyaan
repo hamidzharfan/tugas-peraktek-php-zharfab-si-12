@@ -1,0 +1,13 @@
+Apa bedanya variabel user dengan variable system ?
+• Variabel : Tempat menyimpan nilai selama program berjalan
+• Variable diawali dengan tanda $ setelah nama variable
+
+Apa persamaan variabel system dengan variabel konstan ?
+Kedua variabelnya memiliki bentuk pangkat satu.
+kedua variabelnya memiliki perangkat satu.
+
+Jelaskan apa fungsi array_shift($array)?
+ fungsi yang digunakan untuk menghapus elemen pertama dalam array, dan mengembalikan elemen yang dihapus. 
+
+ Jelaskan apa fungsi array_unshift($array)?
+ berguna untuk menyisipkan elemen baru ke array. Nilai array baru akan disisipkan di awal array.
